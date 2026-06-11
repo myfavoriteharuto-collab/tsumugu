@@ -294,7 +294,7 @@ v1 / v2.0 は `data/articles/*.json` にフラット保存しています。Web 
 ## Credits
 
 * **開発・デザイン**: [Haruto Miyakawa](https://portfolio-lp-chi.vercel.app/)
-* **ポートフォリオ LP**: <https://portfolio-lp-chi.vercel.app/>
+* **ポートフォリオ HP**: <https://haruto-miyakawa-portfolio-hp.vercel.app/>
 * **マスコット「つむぎ」**: オリジナル SVG（豆型 + 結び目モチーフ、原典なし）
 * **AI 共同執筆**: Claude（Anthropic）
 
