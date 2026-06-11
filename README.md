@@ -176,8 +176,8 @@ sequenceDiagram
 
 ```bash
 # 1. リポジトリをクローン
-git clone https://github.com/haruto-miyakawa/note-generator.git
-cd note-generator
+git clone https://github.com/haruto-miyakawa/tsumugu.git
+cd tsumugu
 
 # 2. 依存関係をインストール
 npm install
