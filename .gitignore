@@ -44,3 +44,7 @@ memory/
 
 # v2.0 開発用の設計図（ローカル参照用、公開しない）
 design-reference/v1.5-blueprint/
+
+# AI指示ファイル（vault導線を含むため非公開・ローカル専用）
+CLAUDE.md
+CLAUDE.local.md
